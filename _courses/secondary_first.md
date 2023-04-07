@@ -1,3 +1,4 @@
+---
 title  : 'First of secondary'
 slug   : '1st-s'
 year   : 1
@@ -6,3 +7,4 @@ subjects:
       title: "History Art"
     history:
       title: "History"
+---
