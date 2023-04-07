@@ -1,27 +1,25 @@
 theme              : jekyll-theme-minimal
 title              : Classroom Resources Manager
 description        : >-
-                    This website serves as a template for teachers that want to generate
-                    a website to provide resources by course to their students.
+                    This website is a resource for Practical and Reproducible Data Science 
 
-url                : http://jsanz.github.io/classroom-resources
-baseurl            : /classroom-resources
+url                : https://smcnew.github.io/ECOL_600_datascience/
+baseurl            : /ECOL_600_datascience
 
 # SEO tag
 twitter:
-  username         : xurxosanz
+  username         : sabrinamcnew
 
 author:
-  name             : xurxosanz
-  email            : xurxosanz@gmail.com
+  name             : Sabrina McNew
+  email            : mcnew@arizona.edu
 
 social:
-  name             : Jorge Sanz
+  name             : Sabrina McNew
   links:
-                   - https://twitter.com/xurxosanz
-                   - https://www.linkedin.com/in/jsanz
-                   - https://github.com/jsanz
-                   - https://keybase.io/jsanz
+                   - https://twitter.com/sabrinamcnew
+                   - https://sabrinamcnew.com
+                   - https://github.com/smcnew
 
 plugins:
   - jekyll-seo-tag
